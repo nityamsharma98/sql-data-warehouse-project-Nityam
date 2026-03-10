@@ -39,4 +39,4 @@ This project is licensed under the [MIT License].(LICENSE). Free to use, modify 
 
 ## About Me
 
-Hey, I am **Soham Mukherjee** , a machine learning Analyst delving into the career of **data engineering and analysis** .
+Hey, I am **Nityam Sharma** , a machine learning Analyst delving into the career of **data engineering and analysis** .
